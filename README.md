@@ -1,2 +1,3 @@
 # JD---Projeto-Final
-Projeto final de jogos digitais (incompleto)
+Projeto final de jogos digitais 
+
